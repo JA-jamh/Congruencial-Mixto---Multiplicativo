@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\bin\Debug\net8.0\CongruencialMixto.exe
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\bin\Debug\net8.0\CongruencialMixto.deps.json
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\bin\Debug\net8.0\CongruencialMixto.runtimeconfig.json
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\bin\Debug\net8.0\CongruencialMixto.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\bin\Debug\net8.0\CongruencialMixto.pdb
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.AssemblyInfo.cs
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\refint\CongruencialMixto.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.pdb
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\CongruencialMixto.genruntimeconfig.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMixto\obj\Debug\net8.0\ref\CongruencialMixto.dll

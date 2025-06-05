@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\bin\Debug\net8.0\CongruencialMultiplicativo.exe
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\bin\Debug\net8.0\CongruencialMultiplicativo.deps.json
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\bin\Debug\net8.0\CongruencialMultiplicativo.runtimeconfig.json
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\bin\Debug\net8.0\CongruencialMultiplicativo.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\bin\Debug\net8.0\CongruencialMultiplicativo.pdb
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.AssemblyInfo.cs
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\refint\CongruencialMultiplicativo.dll
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.pdb
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\CongruencialMultiplicativo.genruntimeconfig.cache
+C:\Users\User\Desktop\Simulacion de Sistemas\CongruencialMultiplicativo\obj\Debug\net8.0\ref\CongruencialMultiplicativo.dll
